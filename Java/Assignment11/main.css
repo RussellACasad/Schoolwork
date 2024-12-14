@@ -1,0 +1,109 @@
+.main
+{
+    -fx-background-color: #2F2F2F;
+}
+
+.button
+{
+    -fx-background-radius: 100px;
+    -fx-background-color: #82ff9e;
+    -fx-text-fill: black;
+    -fx-pref-width: 100px;
+}
+
+.button:hover
+{
+    -fx-background-color: #8FCB9B;
+}
+
+.titleLabel
+{
+    -fx-text-fill: #DDDDDD;
+    -fx-font-size: 1.2em;
+}
+
+.label
+{
+    -fx-text-fill: #DDDDDD;
+}
+
+.textbox .content
+{
+    -fx-background-color: #4F4F4F;
+}
+
+.textbox
+{
+    -fx-background-color: #82ff9e;
+    -fx-text-fill: #DDDDDD;
+}
+
+.slider
+{
+    -fx-pref-width: 300px;
+}
+
+.slider .track
+{
+    -fx-background-color: #4F4F4F;
+}
+
+.slider .thumb
+{
+    -fx-background-color: #82ff9e;
+    -fx-pref-width: 5px;
+}
+
+.slider .thumb:hover
+{
+    -fx-background-color: #8FCB9B;
+}
+
+.slider .thumb:focus
+{
+    -fx-background-color: #8FCB9B;
+}
+
+.clearButton
+{
+    -fx-pref-width: 80px;
+    -fx-pref-height: 18px;
+    -fx-background-color: #4F4F4F;
+    -fx-text-fill: #DDDDDD;
+}
+
+.clearButton:hover
+{
+    -fx-background-color: #404040;
+    -fx-text-fill: #DDDDDD;
+}
+
+.clearButtonWarn:hover
+{
+    -fx-pref-width: 80px;
+    -fx-pref-height: 18px;
+    -fx-background-color: #ff4365;
+    -fx-text-fill: #DDDDDD;
+}
+
+.copyButton
+{
+    -fx-pref-width: 80px;
+    -fx-pref-height: 18px;
+    -fx-background-color: #4F4F4F;
+    -fx-text-fill: #DDDDDD;
+}
+
+.copyButton:hover
+{
+    -fx-background-color: #404040;
+    -fx-text-fill: #DDDDDD;
+}
+
+.copyButtonCopied:hover
+{
+    -fx-pref-width: 80px;
+    -fx-pref-height: 18px;
+    -fx-background-color: #8FCB9B;
+    -fx-text-fill: black;
+}

@@ -1,0 +1,34 @@
+C:\Users\Xeon\source\repos\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.Form1.resources
+C:\Users\Xeon\source\repos\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.csproj.GenerateResource.cache
+C:\Users\Xeon\source\repos\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.Properties.Resources.resources
+C:\Users\Xeon\source\repos\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xeon\source\repos\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.AssemblyInfoInputs.cache
+C:\Users\Xeon\source\repos\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.AssemblyInfo.cs
+C:\Users\Xeon\source\repos\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.csproj.CoreCompileInputs.cache
+C:\Users\Xeon\source\repos\NavigationAtt2\bin\Debug\net7.0-windows\NavigationAtt2.exe
+C:\Users\Xeon\source\repos\NavigationAtt2\bin\Debug\net7.0-windows\NavigationAtt2.deps.json
+C:\Users\Xeon\source\repos\NavigationAtt2\bin\Debug\net7.0-windows\NavigationAtt2.runtimeconfig.json
+C:\Users\Xeon\source\repos\NavigationAtt2\bin\Debug\net7.0-windows\NavigationAtt2.dll
+C:\Users\Xeon\source\repos\NavigationAtt2\bin\Debug\net7.0-windows\NavigationAtt2.pdb
+C:\Users\Xeon\source\repos\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.dll
+C:\Users\Xeon\source\repos\NavigationAtt2\obj\Debug\net7.0-windows\refint\NavigationAtt2.dll
+C:\Users\Xeon\source\repos\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.pdb
+C:\Users\Xeon\source\repos\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.genruntimeconfig.cache
+C:\Users\Xeon\source\repos\NavigationAtt2\obj\Debug\net7.0-windows\ref\NavigationAtt2.dll
+D:\C# Files\NavigationAtt2\bin\Debug\net7.0-windows\NavigationAtt2.exe
+D:\C# Files\NavigationAtt2\bin\Debug\net7.0-windows\NavigationAtt2.deps.json
+D:\C# Files\NavigationAtt2\bin\Debug\net7.0-windows\NavigationAtt2.runtimeconfig.json
+D:\C# Files\NavigationAtt2\bin\Debug\net7.0-windows\NavigationAtt2.dll
+D:\C# Files\NavigationAtt2\bin\Debug\net7.0-windows\NavigationAtt2.pdb
+D:\C# Files\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.Form1.resources
+D:\C# Files\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.Properties.Resources.resources
+D:\C# Files\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.csproj.GenerateResource.cache
+D:\C# Files\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Files\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.AssemblyInfoInputs.cache
+D:\C# Files\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.AssemblyInfo.cs
+D:\C# Files\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.csproj.CoreCompileInputs.cache
+D:\C# Files\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.dll
+D:\C# Files\NavigationAtt2\obj\Debug\net7.0-windows\refint\NavigationAtt2.dll
+D:\C# Files\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.pdb
+D:\C# Files\NavigationAtt2\obj\Debug\net7.0-windows\NavigationAtt2.genruntimeconfig.cache
+D:\C# Files\NavigationAtt2\obj\Debug\net7.0-windows\ref\NavigationAtt2.dll

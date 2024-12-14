@@ -1,0 +1,16 @@
+C:\Users\Xeon\source\repos\Assignment1Casad\bin\Debug\net7.0-windows\Assignment1Casad.exe
+C:\Users\Xeon\source\repos\Assignment1Casad\bin\Debug\net7.0-windows\Assignment1Casad.deps.json
+C:\Users\Xeon\source\repos\Assignment1Casad\bin\Debug\net7.0-windows\Assignment1Casad.runtimeconfig.json
+C:\Users\Xeon\source\repos\Assignment1Casad\bin\Debug\net7.0-windows\Assignment1Casad.dll
+C:\Users\Xeon\source\repos\Assignment1Casad\bin\Debug\net7.0-windows\Assignment1Casad.pdb
+C:\Users\Xeon\source\repos\Assignment1Casad\obj\Debug\net7.0-windows\Assignment1Casad.Form1.resources
+C:\Users\Xeon\source\repos\Assignment1Casad\obj\Debug\net7.0-windows\Assignment1Casad.csproj.GenerateResource.cache
+C:\Users\Xeon\source\repos\Assignment1Casad\obj\Debug\net7.0-windows\Assignment1Casad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Xeon\source\repos\Assignment1Casad\obj\Debug\net7.0-windows\Assignment1Casad.AssemblyInfoInputs.cache
+C:\Users\Xeon\source\repos\Assignment1Casad\obj\Debug\net7.0-windows\Assignment1Casad.AssemblyInfo.cs
+C:\Users\Xeon\source\repos\Assignment1Casad\obj\Debug\net7.0-windows\Assignment1Casad.csproj.CoreCompileInputs.cache
+C:\Users\Xeon\source\repos\Assignment1Casad\obj\Debug\net7.0-windows\Assignment1Casad.dll
+C:\Users\Xeon\source\repos\Assignment1Casad\obj\Debug\net7.0-windows\refint\Assignment1Casad.dll
+C:\Users\Xeon\source\repos\Assignment1Casad\obj\Debug\net7.0-windows\Assignment1Casad.pdb
+C:\Users\Xeon\source\repos\Assignment1Casad\obj\Debug\net7.0-windows\Assignment1Casad.genruntimeconfig.cache
+C:\Users\Xeon\source\repos\Assignment1Casad\obj\Debug\net7.0-windows\ref\Assignment1Casad.dll

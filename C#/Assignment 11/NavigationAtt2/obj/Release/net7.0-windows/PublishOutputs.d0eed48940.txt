@@ -1,0 +1,5 @@
+C:\Users\russe\OneDrive\Desktop\app\NavigationAtt2.exe
+C:\Users\russe\OneDrive\Desktop\app\NavigationAtt2.dll
+C:\Users\russe\OneDrive\Desktop\app\NavigationAtt2.deps.json
+C:\Users\russe\OneDrive\Desktop\app\NavigationAtt2.runtimeconfig.json
+C:\Users\russe\OneDrive\Desktop\app\NavigationAtt2.pdb

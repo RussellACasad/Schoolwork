@@ -1,0 +1,6 @@
+Marsha,Lobster,Paid,Member,Null
+Mike,Pork Chops,Unpaid,Guest,Marsha
+Luke,Chicken Breast,Paid,Member,Null
+Sven,Venison,Unpaid,Guest,Luke
+Becky,Salad,Paid,Member,Null
+John,Venison,Paid,Guest,Becky
